@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746856382874",
+    "project_id": "bookan-98667",
+    "storage_bucket": "bookan-98667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746856382874:android:841aca805030360bfafa23",
+        "android_client_info": {
+          "package_name": "com.example.bookan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElvStiAlklJPawGy0DZAXrBi2GE7lCXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
